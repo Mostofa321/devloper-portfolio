@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+h1{
+    font-size: 50px;
+}
+h1 .peter{
+    color:orange;
+}
+p{
+    color:dimgrey;
+}
+.button{
+    text-decoration:none;
+    background:linear-gradient(45deg, lightsalmon, tomato);
+    color:white;
+    font-weight:bold;
+    padding: 10px 40px ;
+    border-radius: 5px;
+}
+section{
+    height: 500px;
+    display:flex;
+    background-image:url(images/top-banner.png);
+    background-repeat:no-repeat;
+
+}
+.hulf-div{
+    width:50%;
+    margin-left: 5%;
+    padding-left:2%;
+    
+}
+.hulf-div img{
+width:90%;
+}
